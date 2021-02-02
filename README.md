@@ -1,8 +1,11 @@
 # Pyhton-Exercices
-Python was the first programming language that I have been study (Well, was html but that isnt a programming language.) 
+Python was the first programming language I studied. (Well, it was html but this is not a programming language)
 
-After I have realised that I searched for "Linguagens de programação para iniciantes" and the one that I have found was Python. At that time my english wasnt very good and I always search on portuguese.
 
-I've search on youtube for a playlist and found that "https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=2" that was my first contact with python. At that precise moment I still seeing that playlist, not because my english still bad but because I started and I will finish it, if u look, the time that I will update this repository with new exercices isnt regular because at this moment I am taking a course "Management and programming of computer systems" and now I am studying other language (C# (I will create a repository with C# exercices and projects) 
+After I realized this I researched for "Beginner programming language" and one of the ones I found was Pyhton. At that time my English was not very good so I was always researching in Portuguese
+
+
+I searched on youtube for a playlist and found this one, this was my first contact with python. And at this moment I keep seeing this playlist, not because my English is bad but because I started and will finish it. If you notice, the times I'm going to update this ropsitory won't be regular because at this moment I'm doing a course "Management and programming of computer systems" and studying another programming language (C# (I'll create a repository for exercises and another one for projects I do))
+
 
 And in this repository I will post some exercices that I have done to study python.
